@@ -83,7 +83,7 @@ git push origin dev  # 本地dev分支推送到远程dev分支
 下面以`next`主题为例
 ### `fork`主题代码 
 在`GitHub`上`fork`主题`next`的仓库  
-![fork](/public/images/fork-next.jpg)
+![fork](fork-next.jpg)
 
 ### 拉取远程`fork`的仓库,加入到本地仓库的子模块
 在`myblog`根目录执行
